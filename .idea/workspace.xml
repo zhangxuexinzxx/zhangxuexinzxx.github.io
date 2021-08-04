@@ -1,35 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7ddf1229-e781-4f64-ad80-58f1b845f20a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/apple-touch-icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/apple-touch-icon.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/favicon.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/favicon.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/img_1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/img_1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/img_1_big.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/img_1_big.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/img_2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/img_2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/img_3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/img_3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/img_4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/img_4.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/img_5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/img_5.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/img_6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/img_6.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/logo-adobe.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/logo-apple.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/logo-google.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/logo-netflix.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/logo-nike.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/logo-uber.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/person_1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/person_1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/person_1_sq.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/person_2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/person_3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/services.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/work-single.html" beforeDir="false" afterPath="$PROJECT_DIR$/painting/work1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/works.html" beforeDir="false" afterPath="$PROJECT_DIR$/works.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/说明.txt" beforeDir="false" />
-    </list>
+    <list default="true" id="7ddf1229-e781-4f64-ad80-58f1b845f20a" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -46,6 +18,15 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="717">
               <caret line="140" column="35" selection-start-line="140" selection-start-column="35" selection-end-line="140" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/about.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="724">
+              <caret line="161" column="41" lean-forward="true" selection-start-line="161" selection-start-column="41" selection-end-line="161" selection-end-column="41" />
             </state>
           </provider>
         </entry>
@@ -86,11 +67,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/painting/work6.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="583">
-              <caret line="108" column="33" lean-forward="true" selection-start-line="108" selection-start-column="33" selection-end-line="108" selection-end-column="33" />
+            <state relative-caret-position="376">
+              <caret line="99" column="76" lean-forward="true" selection-start-line="99" selection-start-column="76" selection-end-line="99" selection-end-column="76" />
             </state>
           </provider>
         </entry>
@@ -135,11 +116,11 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="2310" />
-    <option name="y" value="313" />
-    <option name="width" value="1440" />
-    <option name="height" value="803" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1478" />
+    <option name="y" value="23" />
+    <option name="width" value="2560" />
+    <option name="height" value="1417" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -207,15 +188,15 @@
       <option name="presentableId" value="Default" />
       <updated>1628059766619</updated>
       <workItem from="1628059769294" duration="1046000" />
-      <workItem from="1628062375798" duration="6163000" />
+      <workItem from="1628062375798" duration="6390000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7209000" />
+    <option name="totallyTimeSpent" value="7436000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1440" y="23" width="2560" height="1417" extended-state="6" />
+    <frame x="1478" y="23" width="2560" height="1417" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13942496" />
@@ -259,13 +240,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="179">
           <caret line="113" column="50" lean-forward="true" selection-start-line="113" selection-start-column="50" selection-end-line="113" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/about.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="292">
-          <caret line="62" column="8" lean-forward="true" selection-start-line="62" selection-start-column="8" selection-end-line="62" selection-end-column="8" />
         </state>
       </provider>
     </entry>
@@ -320,8 +294,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/painting/work6.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="583">
-          <caret line="108" column="33" lean-forward="true" selection-start-line="108" selection-start-column="33" selection-end-line="108" selection-end-column="33" />
+        <state relative-caret-position="376">
+          <caret line="99" column="76" lean-forward="true" selection-start-line="99" selection-start-column="76" selection-end-line="99" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="724">
+          <caret line="161" column="41" lean-forward="true" selection-start-line="161" selection-start-column="41" selection-end-line="161" selection-end-column="41" />
         </state>
       </provider>
     </entry>
